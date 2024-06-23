@@ -8,3 +8,6 @@ Uses concept of class and objects to converts temperature from celsius to kelvin
 Program that asks for numbers repeatedly and checks whether it is prime or not using the concept of classes and objects
 # Question 3
 Program that sets and gets data members using functions within the classes
+# Question 4
+Program to calculate the area and perimeter of circle, triangle and rectangle and display it using classes
+# Question 5
