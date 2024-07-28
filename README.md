@@ -22,3 +22,5 @@ Includes solution of DS Baral C++ Labsheets
 <br>Program showing the order of constructor and destructor invocation
 * Question_4
 <br>Program that show a bit-by-bit copy of one object to another (using copy constructor) and give 10% discount on charge if num_vehicle is greater than 10
+* Question_6
+<br>Program that holds the serial number for each object created from the class and shows it using static function
