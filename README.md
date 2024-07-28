@@ -36,3 +36,7 @@ Includes solution of DS Baral C++ Labsheets
 <br>Program to compare two objects of a class to overload equality(==), less than(<), greater than(>), not equal (!=), greater than or equal to (>=), and less than or equal to(<=) operators using member operator functions.
 * Question_4
 <br>Overloading prefix and postfix operators to increase the Date object by one day, while causing appropriate increments to the month and year
+
+## LabSheet 6
+* Question_1
+<br>Program that can convert the Distance (meter, centimeter) to meters measurement in float and vice versa

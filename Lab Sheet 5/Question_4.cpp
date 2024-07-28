@@ -8,6 +8,15 @@ class Date{
         Date(){}
         Date(int dd, int mm, int yr): day(dd), month(mm), year(yr){}
 
+        void getData(){
+            cout<< "Enter day: ";
+            cin>> day;
+            cout<< "Enter month: ";
+            cin>> month;
+            cout<< "Enter year: ";
+            cin>> year;
+        }
+
         //Pre increment
         Date operator ++(){
             int temp_day = ++day;
@@ -36,7 +45,12 @@ class Date{
 
 int main()
 {
-    Date d1(31, 11, 3),d2, d3, d4(30, 11, 2);
+    Date d1, d2, d3, d4;
+
+    cout<< "Enter data for time 1: "<< endl;
+    d1.getData();
+    cout<< "Enter data for time 2: "<< endl;
+    d4.getData();
 
     d1.display();
     d2 = ++d1;  //Pre-increment
