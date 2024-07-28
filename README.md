@@ -26,3 +26,7 @@ Includes solution of DS Baral C++ Labsheets
 <br>Program illustrating the relationship between:  (i)const_obj.non_const_mem_function  (ii)const_obj.const_mem_function  (iii)non_const_obj.non_const_mem_function  (iv)non_const_obj.const_mem_function
 * Question_6
 <br>Program that holds the serial number for each object created from the class and shows it using static function
+
+## LabSheet 5
+* Question_1
+<br>Program demonstrating that all the member functions of one class are the friend functions of another class if the former class is made friend to the latter.
