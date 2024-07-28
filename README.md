@@ -30,3 +30,5 @@ Includes solution of DS Baral C++ Labsheets
 ## LabSheet 5
 * Question_1
 <br>Program demonstrating that all the member functions of one class are the friend functions of another class if the former class is made friend to the latter.
+* Question_2
+<br> Overloading addition and subtraction operators for addition and subtraction of two coordinate objects(Using non-member functions)
