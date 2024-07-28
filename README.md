@@ -16,3 +16,5 @@ Includes solution of DS Baral C++ Labsheets
 ## LabSheet 4
 * Question_1
 <br>Program that adds two time objects and display it in 12 as well as 24 hour format
+* Question_2
+<br>Program that concatenates to arrays of character using new and delete operator for memory allocation and deallocation
