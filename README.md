@@ -20,3 +20,5 @@ Includes solution of DS Baral C++ Labsheets
 <br>Program that concatenates to arrays of character using new and delete operator for memory allocation and deallocation
 * Question_3
 <br>Program showing the order of constructor and destructor invocation
+* Question_4
+<br>Program that show a bit-by-bit copy of one object to another (using copy constructor) and give 10% discount on charge if num_vehicle is greater than 10
