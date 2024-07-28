@@ -32,3 +32,5 @@ Includes solution of DS Baral C++ Labsheets
 <br>Program demonstrating that all the member functions of one class are the friend functions of another class if the former class is made friend to the latter.
 * Question_2
 <br> Overloading addition and subtraction operators for addition and subtraction of two coordinate objects(Using non-member functions)
+* Question_3
+<br>Program to compare two objects of a class to overload equality(==), less than(<), greater than(>), not equal (!=), greater than or equal to (>=), and less than or equal to(<=) operators using member operator functions.
